@@ -1,0 +1,22 @@
+INSERT INTO Medicamento (MedicamentoID, Nombre, FinalidadUso)
+VALUES
+(1, 'Amoxicilina', 'Antibiótico'),
+(2, 'Paracetamol', 'Analgésico y antipirético'),
+(3, 'Ibuprofeno', 'Antiinflamatorio no esteroideo'),
+(4, 'Omeprazol', 'Inhibidor de la bomba de protones'),
+(5, 'Metformina', 'Antidiabético'),
+(6, 'Acomicil', 'Antibiótico'),
+(7, 'Adiro', 'Antiagregante plaquetario'),
+(8, 'Citalopram', 'Antidepresivo'),
+(9, 'Migraleve', 'Analgésico'),
+(10, 'Furosemida', 'Diurético'),
+(11, 'Nolotil', 'Analgésico y antipirético'),
+(12, 'Ondansetron', 'Antiemético'),
+(13, 'Aspirina', 'Analgésico, antipirético y antiinflamatorio'),
+(14, 'Rybelsus', 'Antidiabético'),
+(15, 'Nupeldol', 'Analgésico'),
+(16, 'Salbutamol', 'Broncodilatador'),
+(17, 'Loratadina', 'Antihistamínico'),
+(18, 'Simvastatina', 'Hipolipemiante'),
+(19, 'Losartan', 'Antihipertensivo'),
+(20, 'Atorvastatina', 'Hipolipemiante');
